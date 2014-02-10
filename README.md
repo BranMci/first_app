@@ -1,3 +1,4 @@
-# Ruby on Rails Tutorial: first application
+rails_projects
+==============
 
-This is the first application for the [*Ruby on Rails Tutorial*](http://railstutorial.org/) by [Michael Hartl](http://michaelhartl.com/).
+A collection of rails projects from the Hartl Rails Tutorial.
