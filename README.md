@@ -1,4 +1,4 @@
-rails_projects
+first_app
 ==============
 
-A collection of rails projects from the Hartl Rails Tutorial.
+The First App in Hartl's Rails Tutorial.
